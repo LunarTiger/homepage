@@ -5,7 +5,7 @@
 		<style>
 			button {background-color: #000000;color: #00FF00;padding: 10px;border-radius: 10px;}
 			body {text-align:center;background-color: #000000;}
-			footer {position: fixed;left: 0;bottom: 0;width: 50%;text-align:right;background-color: #000000;color: #00ff00;}
+			footer {position: fixed;left: 0;bottom: 0;width: 100%;text-align:right;background-color: #000000;color: #00ff00;}
 			table {margin-left:auto;margin-right:auto;}
 		</style>
 		<meta charset="UTF-8">
@@ -47,8 +47,8 @@
 				<th><button type="button" name="" onClick="window.location='https://www.timeanddate.com/worldclock/fullscreen.html?n=1440'">UTC Time</button></th>
 			</tr>
 			<tr>
-				<th><button type="button" name="Teleport Hub" onClick="window.location='https://account.altvr.com/spaces/lunar-s-teleport-hub'">Teleport Hub</button></th>
 				<th><!--<button type="button" name="" onClick="window.location=''"></button>--></th>
+				<th><button type="button" name="Teleport Hub" onClick="window.location='https://account.altvr.com/spaces/lunar-s-teleport-hub'">Teleport Hub</button></th>
 				<th><!--<button type="button" name="" onClick="window.location=''"></button>--></th>
 			</tr>
 			<!--
@@ -68,6 +68,10 @@
 		</table>
 	</body>
 	<footer>
-		<button type="button" name="Home" onClick="window.location='https://lunartiger.github.io'">Home</button>
+		<table>
+			<tr>
+				<th><button type="button" name="Home" onClick="window.location='https://lunartiger.github.io'">Home</button></th>
+			</tr>
+		</table>
 	</footer>
 </html>
