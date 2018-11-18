@@ -107,6 +107,5 @@
 <hr style="height:75px; visibility:hidden;" />
 </body>
 <footer>
-	<button type="button" name="Home" onClick="window.location='https://lunartiger.github.io'" style="border-radius: 100px;">Home</button><br>
 	<small>Nobody exists on purpose, nobody belongs anywhere, everybody is going to die.</small>
 </footer>
