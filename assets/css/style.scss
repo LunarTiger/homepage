@@ -1,0 +1,99 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    text-align:center;
+    background-color: #000000;
+    color: #00be00;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align:center;
+    background-color: #000000;
+    color: #00ff00;
+    border-top: 1px dashed #006900;
+}
+
+/* unvisited link */
+a:link {
+    color: #0ac139;
+    text-decoration: underline;
+}
+
+/* visited link */
+a:visited {
+    color: #0ac139;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #0ac139;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #0ac139;
+    text-decoration: underline;
+}
+
+a {
+    color: #0ac139;
+    text-decoration: underline;
+}
+
+h1 {
+    color: #006900;
+}
+
+h2 {
+    color: #006900;
+}
+
+h3 {
+    color: #00be00;
+}
+
+h4 {
+    color: #006900;
+}
+
+h5 {
+    color: #006900;
+}
+
+h6 {
+    color: #00ff00;
+}
+
+
+hr {
+    border-top: 1px dashed #006900;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+table {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+button {
+    background-color: #000000;
+    color: #00FF00;
+    padding: 10px;
+    border-radius: 10px;
+}
+
