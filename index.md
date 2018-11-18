@@ -1,4 +1,3 @@
-<br>
 <table>
 	<tr>
 		<th><a href='https://www.google.com/'><img src="https://lunartiger.github.io/homepage/img/Google.png" alt="Google" height="21" width="63"></a></th>
