@@ -104,7 +104,6 @@
 	</tr>
 </table>
 <hr style="height:75px; visibility:hidden;" />
-</body>
 <footer>
 	<small>Nobody exists on purpose, nobody belongs anywhere, everybody is going to die.</small>
 </footer>
