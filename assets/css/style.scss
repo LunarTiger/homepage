@@ -128,7 +128,12 @@ ul.navbar {
 
 /* navbar */
 li.navbar {
+    border-right: 1px dashed #006900;
     float: left;
+}
+
+li.navbar:last-child {
+    border-right:none;
 }
 
 li.navbar a {
