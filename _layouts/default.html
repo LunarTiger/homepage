@@ -3,7 +3,7 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
@@ -15,14 +15,12 @@
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <hr />
-        <table>
         <ul class="navbar">
           <li class="navbar"><a href="/">Home</a></li>
           <li class="navbar"><a href="/about">About Me</a></li>
           <li class="navbar"><a href="/contact">Contact Me</a></li>
           <li class="navbar"><a href="/projects">Projects</a></li>
         </ul>
-        </table>
         <hr />
 
         <!--<section id="downloads">
