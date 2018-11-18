@@ -71,7 +71,6 @@
 	</tr>
 	-->
 </table>
-<br>
 <hr style="width:60%" />
 <h3 id='altspace_stuff'>Altspace Stuff</h3>
 <table>
@@ -81,7 +80,6 @@
 		<th><button type="button" name="AltVR Home" onClick="window.location='https://altspacevr.github.io/homepages/main-links.html'">AltVR Home</button></th>
 	</tr>
 </table>
-<br>
 <hr style="width:60%" />
 <h3 id='repo_status'>Github Repo Status</h3>
 <table>
