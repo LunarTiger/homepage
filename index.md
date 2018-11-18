@@ -34,7 +34,7 @@
 		</th>
 	</tr>
 </table>
-<hr />
+<hr style="width:60%" />
 <table>
 	<tr>
 		<th><button type="button" name="File Server" onClick="window.location='http://lunar.zapto.org'">File Server</button></th>
