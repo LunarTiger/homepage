@@ -121,15 +121,15 @@ ul.navbar {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #000;
 }
 
 /* navbar */
 li.navbar {
-    float: left;
+    float: center;
 }
 
-li a {
+li.navbar a {
     display: block;
     color: #00be00;
     text-align: center;
@@ -138,6 +138,6 @@ li a {
 }
 
 /* Change the link color to on hover */
-li a:hover {
+li.navbar a:hover {
     background-color: #006900;
 }
