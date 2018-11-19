@@ -51,6 +51,7 @@
 	</ul>
 </nav>
 <hr />
+<br>
 <h3 id='altspace_stuff'>Altspace Stuff</h3>
 <hr style="width:60%" />
 <nav>
@@ -61,6 +62,7 @@
 	</ul>
 </nav>
 <hr />
+<br>
 <h3 id='repo_status'>Github Repo Status</h3>
 <hr style="width:60%" />
 <nav>
