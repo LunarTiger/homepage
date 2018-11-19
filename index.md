@@ -34,76 +34,52 @@
 		</th>
 	</tr>
 </table>
-<hr style="width:60%" />
-<table>
-	<tr>
-		<th><button type="button" name="File Server" onClick="window.location='http://lunar.zapto.org'">File Server</button></th>
-		<th><button type="button" name="YouTube" onClick="window.location='https://www.youtube.com/feed/subscriptions'">YouTube</button></th>
-		<th><button type="button" name="Google Drive" onClick="window.location='https://drive.google.com/drive/my-drive'">Google Drive</button></th>
-	</tr>
-	<tr>
-		<th><button type="button" name="Google Voice" onClick="window.location='https://voice.google.com/messages'">Google Voice</button></th>
-		<th><button type="button" name="GitHub" onClick="window.location='https://github.com'">GitHub</button></th>
-		<th><button type="button" name="Twitter" onClick="window.location='https://twitter.com'">Twitter</button></th>
-	</tr>
-	<tr>
-		<th><button type="button" name="E-Mail" onClick="window.location='https://outlook.live.com/owa/'">E-Mail</button></th>
-		<th><button type="button" name="Navy Federal" onClick="window.location='https://www.navyfederal.org/'">Navy Federal</button></th>
-		<th><button type="button" name="Amazon" onClick="window.location='https://smile.amazon.com/'">Amazon</button></th>
-	</tr>
-	<tr>
-		<th><button type="button" name="imgur" onClick="window.location='https://imgur.com/'">imgur</button></th>
-		<th><button type="button" name="Programmer Humor" onClick="window.location='https://np.reddit.com/r/ProgrammerHumor/'">Programmer Humor</button></th>
-		<th><button type="button" name="Time" onClick="window.location='https://www.timeanddate.com/worldclock/fullscreen.html?n=1440'">UTC Time</button></th>
-	</tr>
-	<!--
-	<tr>
-		<th><button type="button" name="" onClick=""window.location=''"></button></th>
-		<th><button type="button" name="" onClick="window.location=''"></button></th>
-		<th><button type="button" name="" onClick="window.location=''"></button></th>
-	</tr>
-	-->
-	<!--
-	<tr>
-		<th><button type="button" name="" onClick="window.open('')"></button></th>
-		<th><button type="button" name="" onClick="window.open('')"></button></th>
-		<th><button type="button" name="" onClick="window.open('')"></button></th>
-	</tr>
-	-->
-</table>
-<hr style="width:60%" />
+<hr />
+<nav>
+	<ul class="navbar">
+		<li class="navbar"><a href="http://lunar.zapto.org">File Server</a></li>
+		<li class="navbar"><a href="https://www.youtube.com/feed/subscriptions">YouTube</a></li>
+		<li class="navbar"><a href="https://drive.google.com/drive/my-drive">Google Drive</a></li>
+		<li class="navbar"><a href="https://voice.google.com/messages">Google Voice</a></li>
+		<li class="navbar"><a href="https://github.com">GitHub</a></li>
+		<li class="navbar"><a href="https://twitter.com">Twitter</a></li>
+		<li class="navbar"><a href="https://outlook.live.com/owa/">E-Mail</a></li>
+		<li class="navbar"><a href="https://www.navyfederal.org/">Navy Federal</a></li>
+		<li class="navbar"><a href="https://smile.amazon.com/">Amazon</a></li>
+		<li class="navbar"><a href="https://imgur.com/">imgur</a></li>
+		<li class="navbar"><a href="https://np.reddit.com/r/ProgrammerHumor/">Programmer Humor</a></li>
+	</ul>
+</nav>
+<hr />
 <h3 id='altspace_stuff'>Altspace Stuff</h3>
-<table>
-	<tr>
-		<th><button type="button" name="Altspace" onClick="window.location='https://account.altvr.com/'">Altspace</button></th>
-		<th><button type="button" name="myWorld" onClick="window.location='https://account.altvr.com/worlds/954689156213113037'">My World</button></th>
-		<th><button type="button" name="AltVR Home" onClick="window.location='https://altspacevr.github.io/homepages/main-links.html'">AltVR Home</button></th>
-	</tr>
-</table>
 <hr style="width:60%" />
+<nav>
+	<ul class="navbar">
+		<li class="navbar"><a href="https://account.altvr.com/">Altspace</a></li>
+		<li class="navbar"><a href="https://account.altvr.com/worlds/954689156213113037">My World</a></li>
+		<li class="navbar"><a href="https://altspacevr.github.io/homepages/main-links.html">AltVR Home</a></li>
+	</ul>
+</nav>
+<hr />
 <h3 id='repo_status'>Github Repo Status</h3>
-<table>
-	<tr>
-		<th><button type="button" name="ovrtoggle" onClick="window.location='https://github.com/LunarTiger/ovrtoggle/settings/pages/status'">ovrtoggle</button></th>
-		<th><button type="button" name="lunartiger.github.io" onClick="window.location='https://github.com/LunarTiger/lunartiger.github.io/settings/pages/status'">lunartiger.github.io</button></th>
-		<th><button type="button" name="hypatia" onClick="window.location='https://github.com/LunarTiger/hypatia/settings/pages/status'">hypatia</button></th>
-	</tr>
-	<tr>
-		<th><button type="button" name="althub" onClick="window.location='https://github.com/LunarTiger/althub/settings/pages/status'">althub</button></th>
-		<th><button type="button" name="AltspaceVR" onClick="window.location='https://github.com/LunarTiger/AltspaceVR/settings/pages/status'">AltspaceVR</button></th>
-		<th><button type="button" name="dynamic-hub" onClick="window.location='https://github.com/LunarTiger/dynamic-hub/settings/pages/status'">dynamic-hub</button></th>
-	</tr>
-	<tr>
-		<th><button type="button" name="worms" onClick="window.location='https://github.com/LunarTiger/worms/settings/pages/status'">worms</button></th>
-		<th><button type="button" name="wormsdown" onClick="window.location='https://github.com/LunarTiger/wormsdown/settings/pages/status'">wormsdown</button></th>
-		<th><button type="button" name="chatdown" onClick="window.location='https://github.com/LunarTiger/chatdown/settings/pages/status'">chatdown</button></th>
-	</tr>
-	<tr>
-		<th><button type="button" name="homepage" onClick="window.location='https://github.com/LunarTiger/homepage/settings/pages/status'">homepage</button></th>
-		<th><button type="button" name="Discord" onClick="window.location='https://github.com/LunarTiger/fs-mirror/settings/pages/status'">fs-mirror</button></th>
-		<th><button type="button" name="Discord" onClick="window.location='https://github.com/LunarTiger/Discord/settings/pages/status'">Discord</button></th>
-	</tr>
-</table>
+<hr style="width:60%" />
+<nav>
+	<ul class="navbar">
+		<li class="navbar"><a href="https://github.com/LunarTiger/lunartiger.github.io/settings/pages/status">lunartiger.github.io</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/fs-mirror/settings/pages/status">fs-mirror</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/hypatia/settings/pages/status">hypatia</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/ovrtoggle/settings/pages/status">ovrtoggle</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/althub/settings/pages/status">althub</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/AltspaceVR/settings/pages/status">AltspaceVR</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/Discord/settings/pages/status">Discord</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/homepage/settings/pages/status">homepage</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/worms/settings/pages/status">worms</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/wormsdown/settings/pages/status">wormsdown</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/chatdown/settings/pages/status">chatdown</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/dynamic-hub/settings/pages/status">dynamic-hub</a></li>
+	</ul>
+</nav>
+<hr />
 <hr style="height:75px; visibility:hidden;" />
 <footer>
 	<small>Nobody exists on purpose, nobody belongs anywhere, everybody is going to die.</small>
