@@ -36,20 +36,18 @@
 </table>
 <hr />
 <nav>
-	<ul>
-		<li><a href="http://lunar.zapto.org">File Server</a></li>
-		<li><a href="https://www.youtube.com/feed/subscriptions">YouTube</a></li>
-		<li><a href="https://www.netflix.com/browse">Netflix</a></li>
-		<li><a href="https://www.hulu.com/">Hulu</a></li>
-		<li><a href="https://drive.google.com/drive/my-drive">Google Drive</a></li>
-		<li><a href="https://voice.google.com/messages">Google Voice</a></li>
-		<li><a href="https://github.com">GitHub</a></li>
-		<li><a href="https://twitter.com">Twitter</a></li>
-		<li><a href="https://outlook.live.com/owa/">E-Mail</a></li>
-		<li><a href="https://www.navyfederal.org/">Navy Federal</a></li>
-		<li><a href="https://smile.amazon.com/">Amazon</a></li>
-		<li><a href="https://imgur.com/">imgur</a></li>
-		<li><a href="https://np.reddit.com/r/ProgrammerHumor/">Programmer Humor</a></li>
+	<ul class="navbar">
+		<li class="navbar"><a href="http://lunar.zapto.org">File Server</a></li>
+		<li class="navbar"><a href="https://www.youtube.com/feed/subscriptions">YouTube</a></li>
+		<li class="navbar"><a href="https://drive.google.com/drive/my-drive">Google Drive</a></li>
+		<li class="navbar"><a href="https://voice.google.com/messages">Google Voice</a></li>
+		<li class="navbar"><a href="https://github.com">GitHub</a></li>
+		<li class="navbar"><a href="https://twitter.com">Twitter</a></li>
+		<li class="navbar"><a href="https://outlook.live.com/owa/">E-Mail</a></li>
+		<li class="navbar"><a href="https://www.navyfederal.org/">Navy Federal</a></li>
+		<li class="navbar"><a href="https://smile.amazon.com/">Amazon</a></li>
+		<li class="navbar"><a href="https://imgur.com/">imgur</a></li>
+		<li class="navbar"><a href="https://np.reddit.com/r/ProgrammerHumor/">Programmer Humor</a></li>
 	</ul>
 </nav>
 <hr />
@@ -57,10 +55,10 @@
 <h3 id='altspace_stuff'>Altspace Stuff</h3>
 <hr style="width:60%" />
 <nav>
-	<ul>
-		<li><a href="https://account.altvr.com/">Altspace</a></li>
-		<li><a href="https://account.altvr.com/worlds/954689156213113037">My World</a></li>
-		<li><a href="https://altspacevr.github.io/homepages/main-links.html">AltVR Home</a></li>
+	<ul class="navbar">
+		<li class="navbar"><a href="https://account.altvr.com/">Altspace</a></li>
+		<li class="navbar"><a href="https://account.altvr.com/worlds/954689156213113037">My World</a></li>
+		<li class="navbar"><a href="https://altspacevr.github.io/homepages/main-links.html">AltVR Home</a></li>
 	</ul>
 </nav>
 <hr />
@@ -68,19 +66,19 @@
 <h3 id='repo_status'>Github Repo Status</h3>
 <hr style="width:60%" />
 <nav>
-	<ul>
-		<li><a href="https://github.com/LunarTiger/lunartiger.github.io/settings/pages/status">lunartiger.github.io</a></li>
-		<li><a href="https://github.com/LunarTiger/fs-mirror/settings/pages/status">fs-mirror</a></li>
-		<li><a href="https://github.com/LunarTiger/hypatia/settings/pages/status">hypatia</a></li>
-		<li><a href="https://github.com/LunarTiger/ovrtoggle/settings/pages/status">ovrtoggle</a></li>
-		<li><a href="https://github.com/LunarTiger/althub/settings/pages/status">althub</a></li>
-		<li><a href="https://github.com/LunarTiger/AltspaceVR/settings/pages/status">AltspaceVR</a></li>
-		<li><a href="https://github.com/LunarTiger/Discord/settings/pages/status">Discord</a></li>
-		<li><a href="https://github.com/LunarTiger/homepage/settings/pages/status">homepage</a></li>
-		<li><a href="https://github.com/LunarTiger/worms/settings/pages/status">worms</a></li>
-		<li><a href="https://github.com/LunarTiger/wormsdown/settings/pages/status">wormsdown</a></li>
-		<li><a href="https://github.com/LunarTiger/chatdown/settings/pages/status">chatdown</a></li>
-		<li><a href="https://github.com/LunarTiger/dynamic-hub/settings/pages/status">dynamic-hub</a></li>
+	<ul class="navbar">
+		<li class="navbar"><a href="https://github.com/LunarTiger/lunartiger.github.io/settings/pages/status">lunartiger.github.io</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/fs-mirror/settings/pages/status">fs-mirror</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/hypatia/settings/pages/status">hypatia</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/ovrtoggle/settings/pages/status">ovrtoggle</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/althub/settings/pages/status">althub</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/AltspaceVR/settings/pages/status">AltspaceVR</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/Discord/settings/pages/status">Discord</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/homepage/settings/pages/status">homepage</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/worms/settings/pages/status">worms</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/wormsdown/settings/pages/status">wormsdown</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/chatdown/settings/pages/status">chatdown</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/dynamic-hub/settings/pages/status">dynamic-hub</a></li>
 	</ul>
 </nav>
 <hr />
