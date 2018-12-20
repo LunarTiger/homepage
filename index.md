@@ -54,6 +54,16 @@
 </nav>
 <hr />
 <br>
+<h3 id='expanse_stuff'>Expanse Stuff</h3>
+<hr style="width:60%" />
+<nav>
+	<ul class="navbar">
+		<li class="navbar"><a href="https://theexpanse.app/">The Expanse</a></li>
+		<li class="navbar"><a href="https://app.theexpanse.app/">Web App</a></li>
+	</ul>
+</nav>
+<hr />
+<br>
 <h3 id='altspace_stuff'>Altspace Stuff</h3>
 <hr style="width:60%" />
 <nav>
