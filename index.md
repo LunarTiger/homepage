@@ -37,18 +37,20 @@
 <hr />
 <nav>
 	<ul class="navbar">
-		<li class="navbar"><a href="http://lunar.zapto.org">File Server</a></li>
+		<li class="navbar"><a href="https://outlook.live.com/owa/">E-Mail</a></li>
+		<li class="navbar"><a href="https://twitter.com">Twitter</a></li>
 		<li class="navbar"><a href="https://www.youtube.com/feed/subscriptions">YouTube</a></li>
+		<li class="navbar"><a href="https://www.twitch.tv">Twitch</a></li>
 		<li class="navbar"><a href="https://www.netflix.com/browse">Netflix</a></li>
 		<li class="navbar"><a href="https://www.hulu.com/">Hulu</a></li>
+		<li class="navbar"><a href="https://www.rabb.it">Rabbit</a></li>
 		<li class="navbar"><a href="https://drive.google.com/drive/my-drive">Google Drive</a></li>
 		<li class="navbar"><a href="https://voice.google.com/messages">Google Voice</a></li>
 		<li class="navbar"><a href="https://github.com">GitHub</a></li>
-		<li class="navbar"><a href="https://twitter.com">Twitter</a></li>
-		<li class="navbar"><a href="https://outlook.live.com/owa/">E-Mail</a></li>
 		<li class="navbar"><a href="https://www.navyfederal.org/">Navy Federal</a></li>
 		<li class="navbar"><a href="https://smile.amazon.com/">Amazon</a></li>
 		<li class="navbar"><a href="https://imgur.com/">imgur</a></li>
+		<li class="navbar"><a href="http://lunar.zapto.org">File Server</a></li>
 		<li class="navbar"><a href="https://np.reddit.com/r/ProgrammerHumor/">Programmer Humor</a></li>
 	</ul>
 </nav>
