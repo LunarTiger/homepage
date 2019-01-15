@@ -85,6 +85,7 @@
 		<li class="navbar"><a href="https://github.com/LunarTiger/fs-mirror/settings/pages/status">fs-mirror</a></li>
 		<li class="navbar"><a href="https://github.com/LunarTiger/hypatia/settings/pages/status">hypatia</a></li>
 		<li class="navbar"><a href="https://github.com/LunarTiger/ovrtoggle/settings/pages/status">ovrtoggle</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/noad/settings/pages/status">noad</a></li>
 		<li class="navbar"><a href="https://github.com/LunarTiger/althub/settings/pages/status">althub</a></li>
 		<li class="navbar"><a href="https://github.com/LunarTiger/AltspaceVR/settings/pages/status">AltspaceVR</a></li>
 		<li class="navbar"><a href="https://github.com/LunarTiger/Discord/settings/pages/status">Discord</a></li>
