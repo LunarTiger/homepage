@@ -82,9 +82,10 @@
 <nav>
 	<ul class="navbar">
 		<li class="navbar"><a href="https://github.com/LunarTiger/lunartiger.github.io/settings/pages/status">lunartiger.github.io</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/hypatia/settings/pages/status">hypatia</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/lar/settings/pages/status">lar</a></li>
 		<li class="navbar"><a href="https://github.com/LunarTiger/ovrtoggle/settings/pages/status">ovrtoggle</a></li>
 		<li class="navbar"><a href="https://github.com/LunarTiger/noad/settings/pages/status">noad</a></li>
+		<li class="navbar"><a href="https://github.com/LunarTiger/hypatia/settings/pages/status">hypatia</a></li>
 		<li class="navbar"><a href="https://github.com/LunarTiger/althub/settings/pages/status">althub</a></li>
 		<li class="navbar"><a href="https://github.com/LunarTiger/fs-mirror/settings/pages/status">fs-mirror</a></li>
 		<li class="navbar"><a href="https://github.com/LunarTiger/fs-up/settings/pages/status">fs-up</a></li>
