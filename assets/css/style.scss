@@ -147,7 +147,7 @@ div.container {
 }
 
 /* navbar */
-ul.navbar {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -155,16 +155,16 @@ ul.navbar {
     background-color: #000;
 }
 
-li.navbar {
+nav ul li {
     border-right: 1px dashed #006900;
     display: inline-block;
 }
 
-li.navbar:last-child {
+nav ul li:last-child {
     border-right:none;
 }
 
-li.navbar a {
+nav ul li a {
     display: block;
     color: #00be00;
     text-align: center;
@@ -173,8 +173,8 @@ li.navbar a {
 }
 
 /* Change the link color to on hover */
-li.navbar a:hover {
-    background-color: #003300;
+nav ul li a:hover {
+    background-color: #030;
 }
 
 /*coustom scrollbar*/
@@ -203,3 +203,63 @@ li.navbar a:hover {
 ::-webkit-scrollbar-corner {
     background: transparent;
 }
+
+/* collapsible layout */
+
+.collapsible {
+    background-color: #006900;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+
+.active, .collapsible:hover {
+    background-color: #009000;
+}
+
+.collapsible:after {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2212";
+}
+
+.innertext {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #020;
+    text-align: left;
+    border-radius: 10px;
+    margin-bottom: 1.5em;
+}
+
+.innertext p {
+    margin: 20px 0 20px
+}
+
+.center {
+    text-align: center;
+}
+
+.encase {
+    border-width: 0;
+    width: 75%;
+    height:auto;
+    max-width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/*------------------------------------*/
