@@ -30,7 +30,7 @@
 <hr />
 <div class="encase">
 	<button class="collapsible" id="social" data-parent="social" data-child="social-child">Social</button>
-	<div id="social-child" class="innertext" data-parent="social">
+	<div id="social-child" class="innertext center" data-parent="social">
 		<nav>
 			<ul>
 				<li><a id="twitter" href="https://twitter.com" data-parent="social">Twitter</a></li>
@@ -41,7 +41,7 @@
 		</nav>
 	</div>
 	<button class="collapsible" id="entertainment" data-parent="entertainment" data-child="entertainment-child">Entertainment</button>
-	<div id="entertainment-child" class="innertext" data-parent="entertainment">
+	<div id="entertainment-child" class="innertext center" data-parent="entertainment">
 		<nav>
 			<ul>
 				<li><a id="youtube" href="https://www.youtube.com/feed/subscriptions" data-parent="entertainment">YouTube</a></li>
@@ -52,7 +52,7 @@
 		</nav>
 	</div>
 	<button class="collapsible" id="other" data-parent="other" data-child="other-child">Other Usefull Stuff</button>
-	<div id="other-child" class="innertext" data-parent="other">
+	<div id="other-child" class="innertext center" data-parent="other">
 		<nav>
 			<ul>
 				<li><a id="navyfederal" href="https://www.navyfederal.org/" data-parent="other">Navy Federal</a></li>
@@ -66,7 +66,7 @@
 		</nav>
 	</div>
 	<button class="collapsible" id="expanse" data-parent="expanse" data-child="expanse-child">Expanse</button>
-	<div id="expanse-child" class="innertext" data-parent="expanse">
+	<div id="expanse-child" class="innertext center" data-parent="expanse">
 		<nav>
 			<ul>
 				<li><a id="theexpanse" href="https://theexpanse.app/">The Expanse</a></li>
@@ -75,7 +75,7 @@
 		</nav>
 	</div>
 	<button class="collapsible" id="altspace" data-parent="altspace" data-child="altspace-child">Altspace</button>
-	<div id="altspace-child" class="innertext" data-parent="altspace">
+	<div id="altspace-child" class="innertext center" data-parent="altspace">
 		<nav>
 			<ul>
 				<li><a href="https://account.altvr.com/">Altspace</a></li>
@@ -85,7 +85,7 @@
 		</nav>
 	</div>
 	<button class="collapsible" id="repo" data-parent="repo" data-child="repo-child">Repo Status</button>
-	<div id="repo-child" class="innertext" data-parent="repo">
+	<div id="repo-child" class="innertext center" data-parent="repo">
 		<nav>
 			<ul>
 				<li><a href="https://github.com/LunarTiger/lunartiger.github.io/settings/pages/status">lunartiger.github.io</a></li>
