@@ -29,7 +29,7 @@
 </div>
 <hr />
 <div class="encase">
-	<div id="social" class="innertext center">
+	<div id="social" class="holder center">
 		<nav>
 			<ul>
 				<li><a id="twitter" href="https://twitter.com" data-parent="social">Twitter</a></li>
@@ -39,7 +39,7 @@
 			</ul>
 		</nav>
 	</div>
-	<div id="entertainment" class="innertext center">
+	<div id="entertainment" class="holder center">
 		<nav>
 			<ul>
 				<li><a id="youtube" href="https://www.youtube.com/feed/subscriptions">YouTube</a></li>
@@ -49,7 +49,7 @@
 			</ul>
 		</nav>
 	</div>
-	<div id="other" class="innertext center">
+	<div id="other" class="holder center">
 		<nav>
 			<ul>
 				<li><a id="navyfederal" href="https://www.navyfederal.org/">Navy Federal</a></li>
@@ -62,7 +62,7 @@
 			</ul>
 		</nav>
 	</div>
-	<div id="expanse" class="innertext center" data-parent="expanse">
+	<div id="expanse" class="holder center" data-parent="expanse">
 		<nav>
 			<ul>
 				<li><a id="theexpanse" href="https://theexpanse.app/">The Expanse</a></li>
@@ -70,7 +70,7 @@
 			</ul>
 		</nav>
 	</div>
-	<div id="altspace" class="innertext center">
+	<div id="altspace" class="holder center">
 		<nav>
 			<ul>
 				<li><a href="https://account.altvr.com/">Altspace</a></li>
