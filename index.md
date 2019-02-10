@@ -29,8 +29,7 @@
 </div>
 <hr />
 <div class="encase">
-	<button class="collapsible" id="social" data-parent="social" data-child="social-child">Social</button>
-	<div id="social-child" class="innertext center" data-parent="social">
+	<div id="social" class="innertext center">
 		<nav>
 			<ul>
 				<li><a id="twitter" href="https://twitter.com" data-parent="social">Twitter</a></li>
@@ -40,33 +39,30 @@
 			</ul>
 		</nav>
 	</div>
-	<button class="collapsible" id="entertainment" data-parent="entertainment" data-child="entertainment-child">Entertainment</button>
-	<div id="entertainment-child" class="innertext center" data-parent="entertainment">
+	<div id="entertainment" class="innertext center">
 		<nav>
 			<ul>
-				<li><a id="youtube" href="https://www.youtube.com/feed/subscriptions" data-parent="entertainment">YouTube</a></li>
-				<li><a id="netflix" href="https://www.netflix.com/browse" data-parent="entertainment">Netflix</a></li>
-				<li><a id="hulu" href="https://www.hulu.com/" data-parent="entertainment">Hulu</a></li>
-				<li><a id="rabbit" href="https://www.rabb.it" data-parent="entertainment">Rabbit</a></li>
+				<li><a id="youtube" href="https://www.youtube.com/feed/subscriptions">YouTube</a></li>
+				<li><a id="netflix" href="https://www.netflix.com/browse">Netflix</a></li>
+				<li><a id="hulu" href="https://www.hulu.com/">Hulu</a></li>
+				<li><a id="rabbit" href="https://www.rabb.it">Rabbit</a></li>
 			</ul>
 		</nav>
 	</div>
-	<button class="collapsible" id="other" data-parent="other" data-child="other-child">Other Usefull Stuff</button>
-	<div id="other-child" class="innertext center" data-parent="other">
+	<div id="other" class="innertext center">
 		<nav>
 			<ul>
-				<li><a id="navyfederal" href="https://www.navyfederal.org/" data-parent="other">Navy Federal</a></li>
-				<li><a id="amazon" href="https://smile.amazon.com/" data-parent="other">Amazon</a></li>
-				<li><a id="gdrive" href="https://drive.google.com/drive/my-drive" data-parent="other">Google Drive</a></li>
-				<li><a id="gvoice" href="https://voice.google.com/messages" data-parent="other">Google Voice</a></li>
-				<li><a id="email" href="https://outlook.live.com/owa/" data-parent="other">E-Mail</a></li>
-				<li><a id="imgur" href="https://imgur.com/" data-parent="other">imgur</a></li>
-				<li><a id="fileserver" href="http://lunar.zapto.org" data-parent="other">File Server</a></li>
+				<li><a id="navyfederal" href="https://www.navyfederal.org/">Navy Federal</a></li>
+				<li><a id="amazon" href="https://smile.amazon.com/">Amazon</a></li>
+				<li><a id="gdrive" href="https://drive.google.com/drive/my-drive">Google Drive</a></li>
+				<li><a id="gvoice" href="https://voice.google.com/messages">Google Voice</a></li>
+				<li><a id="email" href="https://outlook.live.com/owa/">E-Mail</a></li>
+				<li><a id="imgur" href="https://imgur.com/">imgur</a></li>
+				<li><a id="fileserver" href="http://lunar.zapto.org">File Server</a></li>
 			</ul>
 		</nav>
 	</div>
-	<button class="collapsible" id="expanse" data-parent="expanse" data-child="expanse-child">Expanse</button>
-	<div id="expanse-child" class="innertext center" data-parent="expanse">
+	<div id="expanse" class="innertext center" data-parent="expanse">
 		<nav>
 			<ul>
 				<li><a id="theexpanse" href="https://theexpanse.app/">The Expanse</a></li>
@@ -74,8 +70,7 @@
 			</ul>
 		</nav>
 	</div>
-	<button class="collapsible" id="altspace" data-parent="altspace" data-child="altspace-child">Altspace</button>
-	<div id="altspace-child" class="innertext center" data-parent="altspace">
+	<div id="altspace" class="innertext center">
 		<nav>
 			<ul>
 				<li><a href="https://account.altvr.com/">Altspace</a></li>
