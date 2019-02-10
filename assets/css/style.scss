@@ -177,16 +177,16 @@ nav ul {
     background-color: transparent;
 }
 
-nav ul li {
+nav li {
     border-right: 1px dashed #006900;
     display: inline-block;
 }
 
-nav ul li:last-child {
+nav li:last-child {
     border-right:none;
 }
 
-nav ul li a {
+nav a {
     display: block;
     color: #00be00;
     text-align: center;
@@ -195,7 +195,7 @@ nav ul li a {
 }
 
 /* Change the link color to on hover */
-nav ul li a:hover {
+nav a:hover {
     background-color: #030;
 }
 
