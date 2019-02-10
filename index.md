@@ -26,6 +26,7 @@
 		<p>Germany</p>
 		<iframe src="https://freesecure.timeanddate.com/clock/i6hjhu2u/n37/fn12/fs18/fc00be00/tc000/pct/ftb/bas2/bac006900/pa4/tt0/tw0/tm1/td2/th1/ta1/tb4" frameborder="0" width="147" height="48" allowTransparency="true"></iframe>
 	</div>
+</div>
 <hr />
 <div class="encase">
 	<button class="collapsible" id="social" data-parent="social" data-child="social-child">Social</button>
@@ -86,23 +87,23 @@
 	<button class="collapsible" id="repo" data-parent="repo" data-child="repo-child">Repo Status</button>
 	<div id="repo-child" class="innertext" data-parent="repo">
 		<nav>
-			<ul class="navbar">
-		<li class="navbar"><a href="https://github.com/LunarTiger/lunartiger.github.io/settings/pages/status">lunartiger.github.io</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/lar/settings/pages/status">lar</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/ovrtoggle/settings/pages/status">ovrtoggle</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/noad/settings/pages/status">noad</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/hypatia/settings/pages/status">hypatia</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/althub/settings/pages/status">althub</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/fs-mirror/settings/pages/status">fs-mirror</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/fs-up/settings/pages/status">fs-up</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/AltspaceVR/settings/pages/status">AltspaceVR</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/Discord/settings/pages/status">Discord</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/homepage/settings/pages/status">homepage</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/worms/settings/pages/status">worms</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/wormsdown/settings/pages/status">wormsdown</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/chatdown/settings/pages/status">chatdown</a></li>
-		<li class="navbar"><a href="https://github.com/LunarTiger/dynamic-hub/settings/pages/status">dynamic-hub</a></li>
-	</ul>
+			<ul>
+				<li><a href="https://github.com/LunarTiger/lunartiger.github.io/settings/pages/status">lunartiger.github.io</a></li>
+				<li><a href="https://github.com/LunarTiger/lar/settings/pages/status">lar</a></li>
+				<li><a href="https://github.com/LunarTiger/ovrtoggle/settings/pages/status">ovrtoggle</a></li>
+				<li><a href="https://github.com/LunarTiger/noad/settings/pages/status">noad</a></li>
+				<li><a href="https://github.com/LunarTiger/hypatia/settings/pages/status">hypatia</a></li>
+				<li><a href="https://github.com/LunarTiger/althub/settings/pages/status">althub</a></li>
+				<li><a href="https://github.com/LunarTiger/fs-mirror/settings/pages/status">fs-mirror</a></li>
+				<li><a href="https://github.com/LunarTiger/fs-up/settings/pages/status">fs-up</a></li>
+				<li><a href="https://github.com/LunarTiger/AltspaceVR/settings/pages/status">AltspaceVR</a></li>
+				<li><a href="https://github.com/LunarTiger/Discord/settings/pages/status">Discord</a></li>
+				<li><a href="https://github.com/LunarTiger/homepage/settings/pages/status">homepage</a></li>
+				<li><a href="https://github.com/LunarTiger/worms/settings/pages/status">worms</a></li>
+				<li><a href="https://github.com/LunarTiger/wormsdown/settings/pages/status">wormsdown</a></li>
+				<li><a href="https://github.com/LunarTiger/chatdown/settings/pages/status">chatdown</a></li>
+				<li><a href="https://github.com/LunarTiger/dynamic-hub/settings/pages/status">dynamic-hub</a></li>
+			</ul>
 		</nav>
 	</div>
 </div>
