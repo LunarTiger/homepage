@@ -45,7 +45,7 @@
 				<li><a id="youtube" href="https://www.youtube.com/feed/subscriptions">YouTube</a></li>
 				<li><a id="netflix" href="https://www.netflix.com/browse">Netflix</a></li>
 				<li><a id="hulu" href="https://www.hulu.com/">Hulu</a></li>
-				<li><a id="rabbit" href="https://www.rabb.it">Rabbit</a></li>
+				<li><a id="rabbit" href="https://kast.gg">Kast</a></li>
 			</ul>
 		</nav>
 	</div>
