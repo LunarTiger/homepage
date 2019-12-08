@@ -34,6 +34,7 @@
 			<ul>
 				<li><a id="twitter" href="https://twitter.com" data-parent="social">Twitter</a></li>
 				<li><a href="https://www.reddit.com/" data-parent="social">Reddit</a></li>
+				<li><a href="https://vrchat.com" data-parent="social">VRChat</a></li>
 				<li><a href="https://www.twitch.tv" data-parent="social">Twitch</a></li>
 				<li><a href="https://github.com" data-parent="social">GitHub</a></li>
 			</ul>
@@ -106,3 +107,4 @@
 <footer>
 	<small>Nobody exists on purpose, nobody belongs anywhere, everybody is going to die.</small>
 </footer>
+
