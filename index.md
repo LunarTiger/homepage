@@ -32,6 +32,7 @@
 	<div id="social" class="holder center">
 		<nav>
 			<ul>
+				<li><a id="mastodon" href="https://mas.to/auth/sign_in" data-parent="social">Mastodon</a></li>
 				<li><a id="twitter" href="https://twitter.com" data-parent="social">Twitter</a></li>
 				<li><a href="https://www.reddit.com/" data-parent="social">Reddit</a></li>
 				<li><a href="https://vrchat.com" data-parent="social">VRChat</a></li>
