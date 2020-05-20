@@ -2,8 +2,13 @@
 ---
 
 @font-face {
+    font-family: Lexend;
+    src: url("/assets/fonts/lexend_deca/LexendDeca-Regular.ttf");
+}
+
+@font-face {
     font-family: ComicSans;
-    src: url(/comic.ttf);
+    src: url("/assets/fonts/comic_sans/comic.ttf");
 }
 
 /* Change Autocomplete styles in Chrome*/
@@ -23,7 +28,7 @@ select:-webkit-autofill:focus {
 }
 
 body {
-    font-family: ComicSans;
+    font-family: Lexend;
     text-align:center;
     background-image: none;
     background-color: #000000;
@@ -102,6 +107,7 @@ hr {
 }
 
 input[type=text] {
+    font-family: Lexend;
     padding: 5px 5px;
     border: none;
     background-color: #030;
@@ -134,7 +140,7 @@ ul {
 }
 
 button {
-    font-family: ComicSans;
+    font-family: Lexend;
     background-color: #000000;
     color: #00FF00;
     padding: 10px;
@@ -192,11 +198,6 @@ nav a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
-
-/* Change the link color to on hover */
-nav a:hover {
-    background-color: #030;
 }
 
 /*coustom scrollbar*/
