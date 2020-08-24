@@ -61,32 +61,23 @@
 			</ul>
 		</nav>
 	</div>
-	<div id="other" class="holder center">
+	<div id="stuff" class="holder center">
 		<nav>
 			<ul>
 				<li><a id="navyfederal" href="https://www.navyfederal.org/">Navy Federal</a></li>
 				<li><a id="amazon" href="https://smile.amazon.com/">Amazon</a></li>
+				<li><a id="email" href="https://outlook.live.com/owa/">E-Mail</a></li>
+			</ul>
+		</nav>
+	</div>
+	<div id="other" class="holder center">
+		<nav>
+			<ul>
 				<li><a id="gdrive" href="https://drive.google.com/drive/my-drive">Google Drive</a></li>
 				<li><a id="gvoice" href="https://voice.google.com/messages">Google Voice</a></li>
-				<li><a id="email" href="https://outlook.live.com/owa/">E-Mail</a></li>
+				<li><a id="theexpanse" href="https://sidequestvr.com/">SideQuest</a></li>
 				<li><a id="imgur" href="https://imgur.com/">imgur</a></li>
 				<li><a id="fileserver" href="http://lunar.zapto.org">File Server</a></li>
-			</ul>
-		</nav>
-	</div>
-	<div id="expanse" class="holder center" data-parent="expanse">
-		<nav>
-			<ul>
-				<li><a id="theexpanse" href="https://theexpanse.app/">The Expanse</a></li>
-				<li><a id="webapp" href="https://app.theexpanse.app/">Web App</a></li>
-			</ul>
-		</nav>
-	</div>
-	<div id="altspace" class="holder center">
-		<nav>
-			<ul>
-				<li><a href="https://account.altvr.com/">Altspace</a></li>
-				<li><a href="https://altspacevr.github.io/homepages/main-links.html">AltVR Home</a></li>
 			</ul>
 		</nav>
 	</div>
