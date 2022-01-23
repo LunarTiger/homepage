@@ -23,7 +23,7 @@
 		<iframe src="https://freesecure.timeanddate.com/clock/i6hjhu2u/n179/fn12/fs18/fc00be00/tc000/pct/ftb/bas2/bac006900/pa4/tt0/tw0/tm1/td2/th1/ta1/tb4" frameborder="0" width="147" height="48" allowTransparency="true"></iframe>
 	</div>
 	<div class="clock rightside center">
-		<p>Western, US</p>
+		<p>Pacific, US</p>
 		<iframe src="https://freesecure.timeanddate.com/clock/i6hjhu2u/n137/fn12/fs18/fc00be00/tc000/pct/ftb/bas2/bac006900/pa4/tt0/tw0/tm1/td2/th1/ta1/tb4" frameborder="0" width="147" height="48" allowTransparency="true"></iframe>
 	</div>
 	<br>
