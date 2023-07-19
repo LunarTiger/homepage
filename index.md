@@ -94,19 +94,19 @@
 	<div id="repo-child" class="innertext center" data-parent="repo">
 		<nav>
 			<ul>
-				<li><a href="https://github.com/LunarTiger/lunartiger.github.io/settings/pages/status">lunartiger.github.io</a></li>
-				<li><a href="https://github.com/LunarTiger/wu/settings/pages/status">write-ups</a></li>
-				<li><a href="https://github.com/LunarTiger/stwl/settings/pages/status">stwl</a></li>
-				<li><a href="https://github.com/LunarTiger/lar/settings/pages/status">lar</a></li>
-				<li><a href="https://github.com/LunarTiger/ovrtoggle/settings/pages/status">ovrtoggle</a></li>
-				<li><a href="https://github.com/LunarTiger/pics/settings/pages/status">pics</a></li>
-				<li><a href="https://github.com/LunarTiger/hypatia/settings/pages/status">hypatia</a></li>
-				<li><a href="https://github.com/LunarTiger/fs-mirror/settings/pages/status">fs-mirror</a></li>
-				<li><a href="https://github.com/LunarTiger/fs-up/settings/pages/status">fs-up</a></li>
-				<li><a href="https://github.com/LunarTiger/AltspaceVR/settings/pages/status">AltspaceVR</a></li>
-				<li><a href="https://github.com/LunarTiger/althub/settings/pages/status">althub</a></li>
-				<li><a href="https://github.com/LunarTiger/Discord/settings/pages/status">Discord</a></li>
-				<li><a href="https://github.com/LunarTiger/homepage/settings/pages/status">homepage</a></li>
+				<li><a href="https://github.com/LunarTiger/lunartiger.github.io/actions">lunartiger.github.io</a></li>
+				<li><a href="https://github.com/LunarTiger/wu/actions">write-ups</a></li>
+				<li><a href="https://github.com/LunarTiger/stwl/actions">stwl</a></li>
+				<li><a href="https://github.com/LunarTiger/lar/actions">lar</a></li>
+				<li><a href="https://github.com/LunarTiger/ovrtoggle/actions">ovrtoggle</a></li>
+				<li><a href="https://github.com/LunarTiger/pics/actions">pics</a></li>
+				<li><a href="https://github.com/LunarTiger/hypatia/actions">hypatia</a></li>
+				<li><a href="https://github.com/LunarTiger/fs-mirror/actions">fs-mirror</a></li>
+				<li><a href="https://github.com/LunarTiger/fs-up/actions">fs-up</a></li>
+				<li><a href="https://github.com/LunarTiger/AltspaceVR/actions">AltspaceVR</a></li>
+				<li><a href="https://github.com/LunarTiger/althub/actions">althub</a></li>
+				<li><a href="https://github.com/LunarTiger/Discord/actions">Discord</a></li>
+				<li><a href="https://github.com/LunarTiger/homepage/actions">homepage</a></li>
 			</ul>
 		</nav>
 	</div>
