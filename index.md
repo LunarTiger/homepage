@@ -95,6 +95,7 @@
 		<nav>
 			<ul>
 				<li><a href="https://github.com/LunarTiger/lunartiger.github.io/actions">lunartiger.github.io</a></li>
+				<li><a href="https://github.com/LunarTiger/banter/actions">banter</a></li>
 				<li><a href="https://github.com/LunarTiger/wu/actions">write-ups</a></li>
 				<li><a href="https://github.com/LunarTiger/stwl/actions">stwl</a></li>
 				<li><a href="https://github.com/LunarTiger/lar/actions">lar</a></li>
